@@ -4,7 +4,7 @@ Donations ❤️ via Lightning Network ⚡ to incentivize development and bug fi
 
 Open source projects for bitcoiners:
 
-- [![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) 
-- [![SatoshiBanner](https://img.shields.io/github/stars/st3b1t/SatoshiBanner?style=social&label=SatoshiBanner)](https://github.com/st3b1t/SatoshiBanner) 
-- [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
-- [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
+ [![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) 
+ [![SatoshiBanner](https://img.shields.io/github/stars/st3b1t/SatoshiBanner?style=social&label=SatoshiBanner)](https://github.com/st3b1t/SatoshiBanner) 
+ [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
+ [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
