@@ -11,4 +11,4 @@ Open source projects for bitcoiners:
 
 Other privacy tools:
 
-[github-pgp-keyid](https://st3b1t.github.io/github-pgp-keyid/)
+[github-pgp-keyid](https://st3b1t.github.io/github-pgp-keyid/) show PGP KeyID and Emails without import in gpg
