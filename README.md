@@ -12,3 +12,7 @@ Open source projects for bitcoiners:
 Other privacy tools:
 
 [github-pgp-keyid](https://st3b1t.github.io/github-pgp-keyid/) show PGP KeyID and Emails without import in gpg
+
+Playgrounds:
+
+[![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=bitcoin-nodejs-playground)](https://github.com/st3b1t/bitcoin-nodejs-playground)
