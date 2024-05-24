@@ -1,4 +1,4 @@
-Donations ❤️ via Lightning Network ⚡ to incentivize development and bug fixes of my repos
+Donate ❤️ sats via LN ⚡ to incentivize work of my repos
 
 [![image](./donate.png)](https://getalby.com/p/st3b1t)
 
