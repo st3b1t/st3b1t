@@ -1,4 +1,4 @@
-Donate ❤️ sats via LN ⚡ to incentivize work of my repos
+Donate ❤️ sats via LN ⚡ to incentivize my projects
 
 [![image](./donate.png)](https://getalby.com/p/st3b1t)
 
