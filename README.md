@@ -2,7 +2,7 @@ Donate ❤️ sats via LN ⚡ to incentivize my projects
 
 [![image](./donate.png)](https://getalby.com/p/st3b1t)
 
-Open source projects for bitcoiners:
+Open source projects for bitcoiners
 
  [![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) 
  [![SatoshiBanner](https://img.shields.io/github/stars/st3b1t/SatoshiBanner?style=social&label=SatoshiBanner)](https://github.com/st3b1t/SatoshiBanner) 
