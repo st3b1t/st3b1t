@@ -9,6 +9,9 @@ Open source projects for bitcoiners
  [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
  [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
 
+Minor contributions:
+[![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p)
+
 Other privacy tools:
 
 [github-pgp-keyid](https://st3b1t.github.io/github-pgp-keyid/) show PGP KeyID and Emails without import in GnuPg
@@ -16,6 +19,5 @@ Other privacy tools:
 Playgrounds:
 
 [![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=bitcoin-nodejs-playground)](https://github.com/st3b1t/bitcoin-nodejs-playground)
-
 
 [![libp2p Nodejs Playground](https://img.shields.io/github/stars/st3b1t/libp2p-nodejs-playground?style=social&label=libp2p-nodejs-playground)](https://github.com/st3b1t/libp2p-nodejs-playground)
