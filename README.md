@@ -9,7 +9,7 @@ Open source projects for bitcoiners
  [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
  [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
 
-Minor contributions
+Contributions
 
 [![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p)
 [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin)
