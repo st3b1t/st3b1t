@@ -11,7 +11,7 @@ Donate ❤️ sats via LN ⚡ to incentivize my projects
 
 ## Online tools
 
-[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)]([https://github.com/st3b1t/SatoshiTop](https://st3b1t.github.io/github-pgp-keyid/))  show PGP KeyID and Emails without import in GnuPg
+[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)  show PGP KeyID and Emails without import in GnuPg
 
 ## Coding Playgrounds
 
