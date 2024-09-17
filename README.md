@@ -13,6 +13,8 @@ Donate ❤️ sats via LN ⚡ to incentivize my projects
 
 [![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)  show PGP KeyID and Emails without import in GnuPg
 
+[![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/) SimlpeX Chat profile address Decoder
+
 ## Coding Playgrounds
 
 [![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=Bitcoin%20Nodejs%20Playground)](https://github.com/st3b1t/bitcoin-nodejs-playground)
