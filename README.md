@@ -17,8 +17,9 @@ Donate ❤️ sats via LN ⚡ to incentivize my projects
 
 ## Coding Playgrounds
 
-[![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=Bitcoin%20Nodejs%20Playground)](https://github.com/st3b1t/bitcoin-nodejs-playground)
-[![libp2p Nodejs Playground](https://img.shields.io/github/stars/st3b1t/libp2p-nodejs-playground?style=social&label=libp2p%20Nodejs%20Playground)](https://github.com/st3b1t/libp2p-nodejs-playground)
+[![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=Bitcoin%20Nodejs%20Playground)](https://github.com/st3b1t/bitcoin-nodejs-playground) Bitcoin
+
+[![libp2p Nodejs Playground](https://img.shields.io/github/stars/st3b1t/libp2p-nodejs-playground?style=social&label=libp2p%20Nodejs%20Playground)](https://github.com/st3b1t/libp2p-nodejs-playground) Libp2p
 
 ### Minor Contributions
 
