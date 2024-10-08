@@ -28,4 +28,4 @@ Donate ❤️ sats via LN ⚡ to incentivize my projects
 [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin) Italian Bitcoin resources
 
 
-### and below are my major contributions:
+### Below are repos to my Major contributions:
