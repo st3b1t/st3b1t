@@ -1,7 +1,3 @@
-Donate ❤️ sats via LN ⚡ to incentivize my projects
-
-[![image](./donate.png)](https://getalby.com/p/st3b1t)
-
 ## Projects for bitcoiners
 
  [![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) Bitcoin full node monitoring dashboard for terminal
