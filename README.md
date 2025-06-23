@@ -8,21 +8,17 @@
 
 ## Online tools
 
-[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)  show PGP KeyID and Emails without import in GnuPg
+[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)
+[![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/)
 
-[![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/) SimlpeX Chat profile address Decoder
+## Playgrounds
 
-## Coding Playgrounds
-
-[![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=Bitcoin%20Nodejs%20Playground)](https://github.com/st3b1t/bitcoin-nodejs-playground) Bitcoin
-
-[![libp2p Nodejs Playground](https://img.shields.io/github/stars/st3b1t/libp2p-nodejs-playground?style=social&label=libp2p%20Nodejs%20Playground)](https://github.com/st3b1t/libp2p-nodejs-playground) Libp2p
+[![Bitcoin Nodejs Playground](https://img.shields.io/github/stars/st3b1t/bitcoin-nodejs-playground?style=social&label=Bitcoin%20Nodejs%20Playground)](https://github.com/st3b1t/bitcoin-nodejs-playground)
+[![libp2p Nodejs Playground](https://img.shields.io/github/stars/st3b1t/libp2p-nodejs-playground?style=social&label=libp2p%20Nodejs%20Playground)](https://github.com/st3b1t/libp2p-nodejs-playground) 
 
 ### Minor Contributions
 
-[![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p) P2P demo applications using libp2p-js library
-
-[![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin) Italian Bitcoin resources
+[![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p) [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin)
 
 
 ### Below are repos to my Major [contributions](https://github.com/st3b1t?tab=repositories&q=&type=fork&language=&sort=):
