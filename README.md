@@ -20,5 +20,10 @@
 
 [![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p) [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin)
 
+### Donations
+
+Lightning Network BOLT12
+
+![dontate](donate_bolt12.png)
 
 ### Below are repos to my Major [contributions](https://github.com/st3b1t?tab=repositories&q=&type=fork&language=&sort=):
