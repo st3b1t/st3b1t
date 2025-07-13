@@ -8,7 +8,7 @@
 
 ## Online tools for cypherpuks
 
-[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Bip39%20HexDice)](https://st3b1t.github.io/bip39-hex-dice) Generate a BIP39 mnemonic using hex dice.
+[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/bip39-hex-dice?style=social&label=Bip39%20HexDice)](https://st3b1t.github.io/bip39-hex-dice) Generate a BIP39 mnemonic using hex dice.
 
 [![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)
 [![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/)
