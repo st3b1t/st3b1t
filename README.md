@@ -6,7 +6,9 @@
  [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
  [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
 
-## Online tools
+## Online tools for cypherpuks
+
+[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Bip39%20HexDice)](https://st3b1t.github.io/bip39-hex-dice) Generate a BIP39 mnemonic using hex dice.
 
 [![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)
 [![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/)
