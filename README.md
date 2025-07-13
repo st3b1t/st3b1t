@@ -1,14 +1,12 @@
 ## Projects for bitcoiners
 
- [![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) Bitcoin full node monitoring dashboard for terminal
+[![SatoshiTop](https://img.shields.io/github/stars/st3b1t/SatoshiTop?style=social&label=SatoshiTop)](https://github.com/st3b1t/SatoshiTop) Bitcoin full node monitoring dashboard for terminal
 
- [![SatoshiBanner](https://img.shields.io/github/stars/st3b1t/SatoshiBanner?style=social&label=SatoshiBanner)](https://github.com/st3b1t/SatoshiBanner) 
- [![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
- [![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
+[![bip39-hex-dice](https://img.shields.io/github/stars/st3b1t/bip39-hex-dice?style=social&label=Bip39%20HexDice)](https://st3b1t.github.io/bip39-hex-dice) Generate a BIP39 mnemonic using hex dice.
 
-## Online tools for cypherpuks
-
-[![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/bip39-hex-dice?style=social&label=Bip39%20HexDice)](https://st3b1t.github.io/bip39-hex-dice) Generate a BIP39 mnemonic using hex dice.
+[![SatoshiBanner](https://img.shields.io/github/stars/st3b1t/SatoshiBanner?style=social&label=SatoshiBanner)](https://github.com/st3b1t/SatoshiBanner) 
+[![SatoshiLog](https://img.shields.io/github/stars/st3b1t/SatoshiLog?style=social&label=SatoshiLog)](https://github.com/st3b1t/SatoshiLog)
+[![SatoshiVox](https://img.shields.io/github/stars/st3b1t/SatoshiVox?style=social&label=SatoshiVox)](https://github.com/st3b1t/SatoshiVox)
 
 [![github-pgp-keyid](https://img.shields.io/github/stars/st3b1t/github-pgp-keyid?style=social&label=Github%20PGP%20Keyid)](https://st3b1t.github.io/github-pgp-keyid/)
 [![simplex-decoder](https://img.shields.io/github/stars/st3b1t/simplex-chat-address-decoder?style=social&label=SimlpeX%20Address%20Decoder)](https://st3b1t.github.io/simplex-chat-address-decoder/)
