@@ -19,7 +19,7 @@
 
 ### Minor Contributions
 
-[![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p) [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin)
+[![js-libp2p](https://img.shields.io/github/stars/libp2p/js-libp2p?style=social&label=js-libp2p)](https://github.com/st3b1t/js-libp2p) [![risorsebitcoin](https://img.shields.io/github/stars/mirserena/risorsebitcoin?style=social&label=risorsebitcoin)](https://github.com/st3b1t/risorsebitcoin) [![minibolt](https://img.shields.io/github/stars/minibolt-guide/minibolt?style=social&label=minibolt)](https://github.com/st3b1t/minibolt)
 
 ### Donate
 
